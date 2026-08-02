@@ -1,3 +1,4 @@
+<img width="700" height="200" alt="osticket" src="https://github.com/user-attachments/assets/84e2f33c-c06d-407c-9a09-96878f1f0902" />
 
 
 <h1>osTicket - Prerequisites and Installation</h1>
