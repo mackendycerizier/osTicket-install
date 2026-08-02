@@ -1,5 +1,4 @@
-# osTicket-install
-In this project, we are installing osTicket from scratch
+
 
 <h1>osTicket - Prerequisites and Installation</h1>
 
