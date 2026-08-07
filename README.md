@@ -180,9 +180,3 @@ Test link for agents and end-users:
 </li>
 </ol>
 
-<h2>8. Clean up files that pose a security risk</h2>
-
-<ol>
-<li>Delete: C:\inetpub\wwwroot\osTicket\setup.</li>
-<li>Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php.</li>
-</ol>
